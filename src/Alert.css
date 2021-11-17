@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+.alert{
+    font-family: 'Inter', sans-serif;
+    background: linear-gradient(135deg, #970000, #400707);
+    border: 1px solid #400707;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
